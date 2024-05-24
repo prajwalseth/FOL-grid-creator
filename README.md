@@ -8,3 +8,4 @@ To use it, you can download 'FOL creator' notebook from the link above, and open
 
 
 
+![alt text](Example%20grid.png)
